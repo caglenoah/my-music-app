@@ -12,7 +12,7 @@ export default function ButtonAppBar() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Can't Crank Up The Jellys, So Lets Crank The Jams-Dashboard
+            Jams, because you cant crank jelly to 11
           </Typography>
         </Toolbar>
       </AppBar>
